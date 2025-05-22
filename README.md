@@ -23,7 +23,7 @@ Bienvenue sur mon portfolio de développeur web ! Je suis **Amadou Bente Diallo*
 ## 📫 Contact
 
 - 📍 Mamelle
-- 📞 788682868
+- 📞 770945452
 - 📧 amadoubentediallo220@gmail.com
 
 ---
